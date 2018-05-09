@@ -1,0 +1,22 @@
+import java.sql.DriverManagar;
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+class Test
+{
+	public static void main(String[]args) throws Exceptions
+	{
+		class.forName("org.hsqldb.jdbcDriver");
+		Connection conn = DriverManager.getConnection("jdbc:hsqldb:hsql://localhost/","SA","");
+		
+		Scanner sc = new Scanner(System.in);
+		
+		ResultSet rs = new ResultSet();
+		rs.next();
+		stmt = conn.createStatement();
+		ResultSet rs = stmt.executeQuery("select * from A;"); 
+
+	}
+}

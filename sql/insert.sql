@@ -1,0 +1,15 @@
+INSERT INTO TABLE Vokabeln VALUES ("også","auch","",1,"Partikel");
+INSERT INTO TABLE Vokabeln VALUES ("student","Student","1",,"Nomen");
+INSERT INTO TABLE Vokabeln VALUES ("l","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
+INSERT INTO TABLE Vokabeln VALUES ("","","",,"");
